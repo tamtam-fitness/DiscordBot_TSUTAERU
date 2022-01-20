@@ -1,2 +1,6 @@
-# discord_bot_for_zakkbar
-for daily_scrum
+# TSUTAERU 
+For ZAKKBAR's Daily Scrum
+
+### ref
+- https://github.com/tamtam-fitness/451ynu_bot/blob/main/python/lambda_function.py
+- https://michimani.net/post/aws-run-lambda-at-1st-day-of-month/
