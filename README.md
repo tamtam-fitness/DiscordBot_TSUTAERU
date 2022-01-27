@@ -6,5 +6,5 @@ For ZAKKBAR's Daily Scrum
 - scheduler: AWS Lambda,AWS CloudWatchEvent
 
 ### ref
-- https://github.com/tamtam-fitness/451ynu_bot/blob/main/python/lambda_function.py
+- https://www.suzu6.net/posts/83-lambda-zip/
 - https://michimani.net/post/aws-run-lambda-at-1st-day-of-month/
